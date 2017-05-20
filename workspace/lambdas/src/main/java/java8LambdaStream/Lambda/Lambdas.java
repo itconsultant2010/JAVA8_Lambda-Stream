@@ -37,7 +37,7 @@ public class Lambdas {
 		// use forEach  with Consumer
 		System.out.println("\nMy list only with forEach :");
 		forEach(inventory,(Shoe b)->System.out.println(b));
-		// Apply an action to each person in the list
+	
 		
 
 		// Map each shoe with it size
